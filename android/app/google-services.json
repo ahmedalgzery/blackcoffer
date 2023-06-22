@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886583770032",
+    "project_id": "blackcoffer-cd1a7",
+    "storage_bucket": "blackcoffer-cd1a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886583770032:android:615174f21589fb609cf475",
+        "android_client_info": {
+          "package_name": "com.example.blackcoffer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886583770032-fbq7jt5lc2nhqa9vssa0qka76ei9t3ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP88vOAH1hTbQ5JwipcWNB0FnUuk0Cb1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886583770032-fbq7jt5lc2nhqa9vssa0qka76ei9t3ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
